@@ -21,3 +21,5 @@ print("\n")
 print(price)
 print("\n")
 print(details.strip())
+
+input ('Press enter to continue...')
